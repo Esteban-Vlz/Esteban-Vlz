@@ -5,7 +5,6 @@
 
 ## 👨‍💻 Acerca de mí
 
-- 🎓 **Graduado en Bachillerato en Ciencias.**  
 - 💻 Actualmente cursando la **carrera de Ingeniería en Software** en la **Universidad Técnica de Ambato (UTA)**.  
 - 💡 Destaco en el área de **Frontend**, combinando diseño y funcionalidad para crear experiencias web claras y dinámicas.  
 - 🌱 En proceso de aprendizaje de **React** y **Vite** para mejorar mis habilidades en desarrollo moderno.  
