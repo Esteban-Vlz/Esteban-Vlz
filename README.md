@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:10b981&height=200&section=header&text=Washington%20Villalba%20%F0%9F%8C%BF&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Ingenier%C3%ADa%20en%20Software%20%7C%20Frontend%20Developer%20(Vue.js%20%26%20TypeScript)&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+  <!-- Header Banner (Local SVG para máxima fiabilidad) -->
+  <img src="assets/header.svg" width="100%" alt="Header Banner" />
+
+  <br/><br/>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Esteban-Vlz">
@@ -42,7 +44,7 @@ filosofia: "Diseño limpio, arquitectura modular y aprender algo nuevo cada día
 - 🎓 Cursando la carrera de **Ingeniería en Software** en la **Universidad Técnica de Ambato (UTA)**.
 - 💚 Especializado en desarrollo **Frontend moderno con Vue 3 y TypeScript**, creando interfaces reactivas, escalables y enfocadas en la experiencia de usuario (UI/UX).
 - 🧩 Experiencia construyendo arquitecturas por *features* con **Pinia**, **TanStack Vue Query**, **Tailwind CSS**, validación con **Zod** y editores enriquecidos con **Tiptap**.
-- 🛠️ También cuento con experiencia en proyectos académicos Full Stack e integración con backends en **C# (.NET)**, **Python**, **Java**, **PostgreSQL** y **Docker**.
+- 🛠️ También cuento con experiencia en proyectos Full Stack e integración con backends en **C# (.NET)**, **Python**, **Java**, **PostgreSQL** y **Docker**.
 
 ---
 
@@ -134,8 +136,8 @@ filosofia: "Diseño limpio, arquitectura modular y aprender algo nuevo cada día
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esteban-Vlz&show_icons=true&bg_color=0d1117&border_color=1e293b&title_color=10b981&icon_color=10b981&text_color=e2e8f0" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esteban-Vlz&layout=compact&bg_color=0d1117&border_color=1e293b&title_color=10b981&text_color=e2e8f0" alt="Top Langs" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=Esteban-Vlz&show_icons=true&bg_color=0d1117&border_color=1e293b&title_color=10b981&icon_color=10b981&text_color=e2e8f0" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Esteban-Vlz&layout=compact&bg_color=0d1117&border_color=1e293b&title_color=10b981&text_color=e2e8f0" alt="Top Langs" />
 </div>
 
 <div align="center">
@@ -163,5 +165,5 @@ filosofia: "Diseño limpio, arquitectura modular y aprender algo nuevo cada día
 
   <p>✨ <em>Hecho con pasión, curiosidad y un toque de torongil</em> 🌿✨</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0f766e,100:0d1117&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>

@@ -1,0 +1,26 @@
+<svg width="100%" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background with rounded corners -->
+  <rect width="1200" height="160" rx="18" fill="url(#headerGrad)"/>
+
+  <!-- Aesthetic waves -->
+  <path d="M0 110 C 300 70, 500 150, 800 110 C 1000 80, 1100 130, 1200 100 L 1200 160 L 0 160 Z" fill="url(#waveGrad)"/>
+  <path d="M0 130 C 250 110, 600 160, 900 125 C 1050 105, 1150 145, 1200 135 L 1200 160 L 0 160 Z" fill="#0d1117" fill-opacity="0.35"/>
+
+  <!-- Main Title -->
+  <text x="50%" y="68" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="0.5">Washington Villalba 🌿</text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="108" text-anchor="middle" fill="#ecfdf5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="1.5">INGENIERÍA EN SOFTWARE  |  FRONTEND DEVELOPER (VUE.JS &amp; TYPESCRIPT)</text>
+</svg>
